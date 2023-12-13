@@ -19,7 +19,7 @@
 ## React based template for software developer-focused resume websites
 
 </div>
-
+<!-- ok -->
 ### View a [live demo here.](https://reactresume.com)
 
 #### If this template has helped you and you'd like to support my work, feel free to [♥️ Sponsor](https://github.com/sponsors/tbakerx) the project
